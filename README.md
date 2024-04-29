@@ -1,11 +1,12 @@
 # Data visualization of 2017 Chile Census
 
-Simple project using **geopandas** to display some data from the 2017 Chile Census. In particular, I show:
+Simple project using Python and **geopandas** to display some data from the 2017 Chile Census. In particular, in this script I show the:
 - Population
 - Mean age
 - Urban/rural population ratio
+of each of the 346 communes of Chile.
 
-It can be easily modified to visualize other data from the Census files.
+The code can be easily modified to visualize other data from the census files.
 
 **Output:**
 ![Chile Census data map](chile_census2017.png)
