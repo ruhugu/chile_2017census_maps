@@ -4,6 +4,7 @@ Simple project using Python and **geopandas** to display some data from the 2017
 - Population
 - Mean age
 - Urban/rural population ratio
+  
 of each of the 346 communes of Chile.
 
 The code can be easily modified to visualize other data from the census files.
